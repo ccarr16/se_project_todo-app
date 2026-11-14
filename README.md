@@ -1,17 +1,17 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+A website where you can create and delete todo tasks.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+Users input brief description of task with optional date if needed then a task is added to a to-do list which can be checked off when completed or deleted.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+We used Javascript, BEM methodology, HTML and CSS.
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+[- ADD LINK HERE](https://ccarr16.github.io/se_project_todo-app/)
